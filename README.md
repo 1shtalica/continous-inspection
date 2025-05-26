@@ -1,1 +1,1 @@
-# Repo Untuk tugas continuous testing
+# Repository Untuk tugas continuous testing
