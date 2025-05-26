@@ -49,4 +49,15 @@ public class Counter {
 		return count;
 	}
 
+	public void divideBy(int i) {
+		int result = 10 / i;
+		System.out.println(result);
+	}
+
+	public void duplicateExample() {
+		System.out.println("This is duplicated code.");
+		System.out.println("This is duplicated code.");
+		System.out.println("This is duplicated code.");
+		System.out.println("This is duplicated code.");
+	}
 }
